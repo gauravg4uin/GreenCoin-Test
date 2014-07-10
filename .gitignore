@@ -13,7 +13,7 @@ src/test_greencoin
 
 # Compilation and Qt preprocessor part
 *.qm
-Makefile
+#Makefile
 greencoin-qt
 Greencoin-Qt.app
 
